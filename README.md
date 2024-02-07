@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Martin aka Mr. Maddin
+- 👀 I’m interested in web- and graphic design, photo- and videography
+- 🌱 I’m currently learning HTML & CSS since end of January 2024
+- ✌️ Want to start a career in graphic design and web development.
+- ⚡ Fun fact: i was in the Austrian army...
